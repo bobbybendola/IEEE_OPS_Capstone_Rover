@@ -18,7 +18,7 @@ Special thanks to Marvin Ngyuen for PCB Design Support!
 ![Car_Joystick](IMG_0659.jpg)
 
 ## Footage of Testing 
-YouTube Video: <a href="https://youtube.com/shorts/BwKgsygS7Fk" target="_blank" rel="noopener noreferrer"> IEEE_OPS_Capstone_Rover DT </
+YouTube Video: <a href="https://youtube.com/watch/BwKgsygS7Fk" target="_blank" rel="noopener noreferrer"> IEEE_OPS_Capstone_Rover DT </
 
 ## Future Improvements
 - [ ] Better AUTO movement using improved sensor detection and movement algorithm
