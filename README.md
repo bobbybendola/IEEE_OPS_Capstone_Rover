@@ -1,4 +1,4 @@
-# IEEE_OPS_Capstone_Rover
+# DT-IEEE_OPS_Capstone_Rover
 DT - A Modified version of the UCI IEEE OPS Rover (25-26)
 (Featuring Ferb from Phineas and Ferb) 
  
